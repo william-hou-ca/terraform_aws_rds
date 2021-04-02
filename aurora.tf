@@ -137,7 +137,7 @@ resource "aws_rds_cluster_instance" "secondary" {
 
 ###########################################################################
 #
-# create a new global aurora cluster example
+# create a new global aurora cluster example from existing db cluster
 #
 ###########################################################################
 /*

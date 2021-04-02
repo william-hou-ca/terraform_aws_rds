@@ -142,7 +142,7 @@ resource "aws_db_instance" "this" {
 
 ###########################################################################
 #
-# ec2 instance in the default vpc
+# ec2 instance in the default vpc and install mysql client in it
 #
 ###########################################################################
 
